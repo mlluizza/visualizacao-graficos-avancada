@@ -1,2 +1,2 @@
 # visualizacao-graficos-avancada
-Prática a criação de gráficos avançada 
+Experiência avançada na elaboração e manipulação de gráficos para análise de dados, empregando técnicas contemporâneas de visualização com o objetivo de obter insights detalhados.
