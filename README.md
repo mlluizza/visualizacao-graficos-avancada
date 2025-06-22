@@ -1,2 +1,2 @@
 # visualizacao-graficos-avancada
-Experiência avançada na elaboração e manipulação de gráficos para análise de dados, empregando técnicas contemporâneas de visualização com o objetivo de obter insights detalhados.
+Aplicando técnicas avançadas na elaboração e manipulação de gráficos destinados à análise de dados, empregando métodos modernos de visualização para obter insights detalhados e aprofundados.
